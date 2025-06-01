@@ -1,1 +1,1 @@
-["jaoazijjos", "NaoUsoWyse", "spopxl_aimbot", "Duma7505"]
+["Duma7505", "NaoUsoWyse", "spopxl_aimbot", ""]
