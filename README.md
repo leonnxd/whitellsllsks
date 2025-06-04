@@ -1,1 +1,1 @@
-["BBB00502", "NaoUsoWyse", "spopxl_aimbot", "XxxChocobomxxX", "tetefps155", "tetefps155", "awdawdawddawd194"]
+["BBB00502", "NaoUsoWyse", "spopxl_aimbot", "XxxChocobomxxX", "tetefps155", "tetefps155"]
